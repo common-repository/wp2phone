@@ -1,0 +1,26 @@
+label
+{
+		line-height:20px;
+		vertical-align:middle;
+		float:left;
+		width: 180px;
+		color:#000000;
+	}
+.wp2p_description
+{			
+			margin-top:20px;
+			padding-left:10px;
+			padding-top:10px;
+			background-color:#ffffff;
+			border-width:1px;
+			border-style:solid;
+			border-color:#ffffff;
+			height:50px;
+}
+.changeCursor
+{
+cursor:move;
+}
+.wp2p_content_table {			
+			margin:10px;
+}
